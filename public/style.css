@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+ul,
+ol {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+
+.chat_body {
+  /* display: flex;
+    justify-content: center;
+    align-items: center; */
+  height: 100vh;
+  background: #000;
+}

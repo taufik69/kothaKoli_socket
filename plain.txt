@@ -1,0 +1,4 @@
+todo:
+1 --> Create npm project
+
+2 ---> create index , css , js files
